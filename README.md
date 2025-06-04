@@ -1,9 +1,9 @@
 ## Heya! I'm Ellerin ✨
 
 🧠 Computer science student at Universitas Prima Indonesia<br/>
-🎀 self-taught design<br/>
+🎀 Self-taught design<br/>
 💟 I learn and create projects to stay consistent<br/>
-🌷 I love to learn abaout new things!<br/>
+🌷 I love to learn about new things!<br/>
 👀 Stay connected with me!
 
 
