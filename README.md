@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Ellerin%20✨&fontSize=70&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20It's%20Ellerin%20✨&fontSize=70&animation=fadeIn" width="100%"/>
 </div>
 
 <br/>
@@ -9,11 +9,11 @@
     <td width="50%" valign="top">
       <h3>🧠 About Me</h3>
       <ul>
-        <li>🎓 <b>Informatics Student</b> at Universitas Prima Indonesia.</li>
+        <li>🎓 <b>CompSci Student</b> at Universitas Prima Indonesia.</li>
         <li>🎖️ <b>Google Student Ambassador</b> (Batch 2025/2026).</li>
         <li>✍️ Active writer on <b>Medium</b> sharing about tech & life.</li>
         <li>🎨 Self-taught designer with a passion for clean UI.</li>
-        <li>📊 Aspiring Data Scientist working with Python & SQL.</li>
+        <li>📊 Aspiring Wannabe Data Scientist working with Python & SQL.</li>
       </ul>
       <h3>🌐 Socials</h3>
       <p>
