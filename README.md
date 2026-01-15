@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=it's%20ur%20it%20girl,%20ellerin%20✨&fontSize=50&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=It's%20ur%20IT%20girl,%20Rllerin%20✨&fontSize=50&animation=fadeIn" width="100%"/>
 </div>
 
 <br/>
@@ -7,14 +7,13 @@
 <table>
   <tr>
     <td width="55%" valign="top">
-      <h3>🧠 About Me</h3>
+      <h3>About Me</h3>
       <ul>
-        <li>🎓 <b>Informatics Student</b> at Universitas Prima Indonesia.</li>
-        <li>🎖️ <b>Google Student Ambassador</b> (Batch 2025/2026).</li>
-        <li>✍️ Active writer on <b>Medium</b> sharing about tech & life.</li>
-        <li>🎨 Self-taught designer with a passion for clean UI.</li>
-        <li>📊 Aspiring Data Scientist | <b>Python & SQL</b> Enthusiast.</li>
-        <li>🚀 Mission: Creating impactful tech solutions to help others.</li>
+        <li>🩰 <b>CompSci Student</b> at Universitas Prima Indonesia.</li>
+        <li>📮 <b>Google Student Ambassador 2025</b> </li>
+        <li>🧠 Active writer on <b>Medium</b> sharing about tech & life.</li>
+        <li>✨ Self-taught designer with a passion for clean UI.</li>
+        <li>🤖 Wannabe Data Scientist</li>
       </ul>
       <h3>🌐 Socials</h3>
       <p>
