@@ -1,26 +1,62 @@
-## Heya! I'm Ellerin ✨
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Ellerin%20✨&fontSize=70&animation=fadeIn" width="100%"/>
+</div>
 
-🧠 Computer science student at Universitas Prima Indonesia<br/>
-🎀 Self-taught design<br/>
-💟 I learn and create projects to stay consistent<br/>
-🌷 I love to learn about new things!<br/>
-👀 Stay connected with me!
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      
+      ## 🧠 About Me
+      - 🎓 **Informatics Student** at Universitas Prima Indonesia.
+      - 🎖️ **Google Student Ambassador** (Batch 2025/2026).
+      - ✍️ Active writer on **Medium** sharing about tech & life.
+      - 🎨 Self-taught designer with a passion for clean UI.
+      - 📊 Aspiring Data Scientist working with Python & SQL.
 
+      ## 🌐 Socials
+      <p align="left">
+        <a href="https://linkedin.com/in/ellerinaurelia" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+        <a href="https://instagram.com/ellerinaurelia" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
+        <a href="https://medium.com/@ellerinaurelia" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium"></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      
+      ## 💻 Tech Stack
+      **Languages & Backend**
+      <p align="left">
+        <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+        <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+      </p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ellerinaurelia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ellerinaurelia) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ellerinaurelia) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ellerinaurelia06@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ellerinaurelia&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ellerinaurelia&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ellerinaurelia&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ellerinaurelia&theme=synthwave&no-frame=false&no-bg=true&margin-w=4)
+      **Design & Creative**
+      <p align="left">
+        <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ellerinaurelia&icon=0&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 My Productivity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ellerinaurelia&theme=synthwave&show_icons=true&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellerinaurelia&theme=synthwave&layout=compact&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ellerinaurelia&theme=synthwave&hide_border=true"/>
+</p>
+
+---
+
+## ✍️ Latest Blog Posts
+- [How to Become a Google Student Ambassador](https://medium.com/@ellerinaurelia/...)
+- [My Journey as an Informatics Girl](https://medium.com/@ellerinaurelia/...)
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ellerinaurelia&theme=synthwave&no-frame=true&no-bg=true&margin-w=4" width="100%"/>
+</div>
