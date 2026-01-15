@@ -54,11 +54,11 @@
 
 ---
 
+---
+
 <h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ellerinaurelia&theme=synthwave&no-frame=true&no-bg=true&margin-w=4" width="100%"/>
-</p>
-
-<p align="right">
-  <img src="https://visitcount.itsvg.in/api?id=ellerinaurelia&icon=0&color=11" alt="visitor count"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ellerinaurelia&theme=synthwave&no-frame=false&no-bg=false&margin-w=4" alt="github trophy" />
+  </a>
 </p>
