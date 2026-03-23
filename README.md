@@ -58,7 +58,6 @@
 
   <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellerinaurelia&layout=compact&hide_border=false&bg_color=222022&title_color=f0fc87&text_color=CCCCCC&icon_color=ffaaf7&border_color=253a82&v=1" alt="Ellerin's Top languages" />
 </p>
-<br/>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ellerinaurelia&locale=en&mode=daily&date_format=M%20j%2C%20Y&curr_streak_color=FFB2F7&streak_text=FFFFFF&background=222022&title=FFB2F7&icon=f0fc87&fire=f0fc87&border=253a82&v=1" alt="GitHub Streak Stats" style="max-width:100%"/>
