@@ -13,15 +13,67 @@
 👀 Stay connected with me!
 
 
-## 🌐 Socials:
+## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ellerinaurelia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ellerinaurelia) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ellerinaurelia) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ellerinaurelia06@gmail.com) 
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+## Tech Stack
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ellerinaurelia&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ellerinaurelia&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ellerinaurelia&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+#### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=3776AB)
 
+#### Frameworks & Libraries
+![Tauri](https://img.shields.io/badge/-Tauri-000?style=for-the-badge&logo=tauri&logoColor=24C8DB)
+![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js)
+![Express.js](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 
+#### Design Tools
+![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Framer](https://img.shields.io/badge/-Framer-000?style=for-the-badge&logo=framer&logoColor=blue)
+![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva&logoColor=00C4CC)
+
+#### Database & State
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql&logoColor=4479A1)
+
+#### Backend & DevOps
+![Apache](https://img.shields.io/badge/-Apache-000?style=for-the-badge&logo=apache&logoColor=D42029)
+
+#### Hosting & Deployment
+![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
+![Google Cloud](https://img.shields.io/badge/-GoogleCloud-000?style=for-the-badge&logo=google-cloud&logoColor=4285F4)
+
+#### Tools & Version Control
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git&logoColor=F05033)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
+![Notion](https://img.shields.io/badge/-Notion-000?style=for-the-badge&logo=notion&logoColor=000000)
+
+---
+
+## Current GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ellerinaurelia&show_icons=true&hide_border=false&theme=gruvbox&count_private=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellerinaurelia&show_icons=true&hide_border=false&theme=gruvbox&count_private=true&include_all_commits=true&layout=compact" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://nirzak-streak-stats.vercel.app/?user=joy-arz&theme=gruvbox&hide_border=false" alt="GitHub streak" />
+</p>
+
+---
+
+## Connect
+
+<a href="mailto:ellerinaurelia06@gmail.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=D14836"/></a>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="github-snake" src="dist/github-snake-dark.svg" />
+</picture>
+
+[![](https://visitcount.itsvg.in/api?id=joy-arz&icon=0&color=7)](https://visitcount.itsvg.in)
