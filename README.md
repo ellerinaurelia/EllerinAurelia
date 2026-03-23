@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=It's%20ur%20IT%20girl,%20Ellerin%20✨&fontSize=50&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=EFCFE3&height=200&section=header&text=It's%20ur%20IT%20girl,%20Ellerin%20✨&fontSize=50&animation=fadeIn" width="100%"/>
 </div>
 
 <br/>
@@ -47,7 +47,7 @@
 #### Tools & Version Control
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git&logoColor=F05033)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
-![Notion](https://img.shields.io/badge/-Notion-000?style=for-the-badge&logo=notion&logoColor=000000)
+![Notion](https://img.shields.io/badge/-Notion-000?style=for-the-badge&logo=notion&logoColor=000001)
 
 ---
 
