@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=EB9AB2&height=200&section=header&text=The%20IT%20Girl,%20Ellerin%20&fontSize=50&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB2F7&height=200&section=header&text=The%20IT%20Girl,%20Ellerin%20&fontSize=50&animation=fadeIn" width="100%"/>
 </div>
 
 <br/>
