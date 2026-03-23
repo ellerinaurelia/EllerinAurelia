@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=EFCFE3&height=200&section=header&text=It's%20ur%20IT%20girl,%20Ellerin%20✨&fontSize=50&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=EB9AB2&height=200&section=header&text=The%20IT%20Girl,%20Ellerin%20&fontSize=50&animation=fadeIn" width="100%"/>
 </div>
 
 <br/>
 
-## A Lil' about me! ✨
+## A Lil' about me!
 
 🧠 Computer science student at Universitas Prima Indonesia<br/>
 🎀 AI/ML Enthusiast<br/>
@@ -47,26 +47,26 @@
 #### Tools & Version Control
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git&logoColor=F05033)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
-![Notion](https://img.shields.io/badge/-Notion-000?style=for-the-badge&logo=notion&logoColor=000001)
+![Notion](https://img.shields.io/badge/-Notion-000?style=for-the-badge&logo=notion&logoColor=000000)
 
 ---
 
 ## Current GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ellerinaurelia&show_icons=true&hide_border=false&theme=gruvbox&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellerinaurelia&show_icons=true&hide_border=false&theme=gruvbox&count_private=true&include_all_commits=true&layout=compact" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ellerinaurelia&show_icons=true&hide_border=false&bg_color=222022&title_color=FFB2F7&text_color=FFFFFF&icon_color=f0fc87&border_color=253a82&count_private=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellerinaurelia&show_icons=true&hide_border=false&layout=compact&bg_color=222022&title_color=FFB2F7&text_color=CCCCCC&border_color=253a82" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://nirzak-streak-stats.vercel.app/?user=joy-arz&theme=gruvbox&hide_border=false" alt="GitHub streak" />
+  <img height="180" src="https://nirzak-streak-stats.vercel.app/?user=ellerinaurelia&bg_color=222022&title_color=FFB2F7&text_color=FFFFFF&icon_color=f0fc87&border_color=253a82&hide_border=false" alt="GitHub streak" />
 </p>
 
 ---
 
 ## Connect
 
-<a href="mailto:ellerinaurelia06@gmail.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=D14836"/></a>
+<a href="mailto:ellerinaurelia06@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-222022?style=for-the-badge&logo=gmail&logoColor=FFB2F7&borderColor=253a82"/></a>
 
 ---
 
@@ -76,4 +76,4 @@
   <img alt="github-snake" src="dist/github-snake-dark.svg" />
 </picture>
 
-[![](https://visitcount.itsvg.in/api?id=joy-arz&icon=0&color=7)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ellerinaurelia&icon=0&color=7)](https://visitcount.itsvg.in)
