@@ -51,29 +51,16 @@
 
 ---
 
-## Current GitHub Stats
+## Commits GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ellerinaurelia&show_icons=true&hide_border=false&bg_color=222022&title_color=FFB2F7&text_color=FFFFFF&icon_color=f0fc87&border_color=253a82&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellerinaurelia&show_icons=true&hide_border=false&layout=compact&bg_color=222022&title_color=FFB2F7&text_color=CCCCCC&border_color=253a82" alt="Top languages" />
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=ellerinaurelia&show_icons=true&count_private=true&include_all_commits=true&bg_color=222022&title_color=FFB2F7&text_color=FFFFFF&icon_color=f0fc87&border_color=253a82&hide_border=false&v=1" alt="Ellerin's GitHub stats" />
+
+  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellerinaurelia&layout=compact&hide_border=false&bg_color=222022&title_color=f0fc87&text_color=CCCCCC&icon_color=ffaaf7&border_color=253a82&v=1" alt="Ellerin's Top languages" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://nirzak-streak-stats.vercel.app/?user=ellerinaurelia&bg_color=222022&title_color=FFB2F7&text_color=FFFFFF&icon_color=f0fc87&border_color=253a82&hide_border=false" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=ellerinaurelia&locale=en&mode=daily&date_format=M%20j%2C%20Y&curr_streak_color=FFB2F7&streak_text=FFFFFF&background=222022&title=FFB2F7&icon=f0fc87&fire=f0fc87&border=253a82&v=1" alt="GitHub Streak Stats" style="max-width:100%"/>
 </p>
 
 ---
-
-## Connect
-
-<a href="mailto:ellerinaurelia06@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-222022?style=for-the-badge&logo=gmail&logoColor=FFB2F7&borderColor=253a82"/></a>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="github-snake" src="dist/github-snake-dark.svg" />
-</picture>
-
-[![](https://visitcount.itsvg.in/api?id=ellerinaurelia&icon=0&color=7)](https://visitcount.itsvg.in)
