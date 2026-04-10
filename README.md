@@ -23,7 +23,6 @@
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=3776AB)
 
 #### Frameworks & Libraries
-![Tauri](https://img.shields.io/badge/-Tauri-000?style=for-the-badge&logo=tauri&logoColor=24C8DB)
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js)
 ![Express.js](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express)
