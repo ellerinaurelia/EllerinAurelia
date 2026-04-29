@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/qE-hQ7yFwT4AAAAC/anime-coding.gif" alt="Aesthetic Anime Tech" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Aesthetic Anime Tech" width="100%" />
   <br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB2F7&height=200&section=header&text=The%20IT%20Girl,%20Ellerin%20&fontSize=50&animation=fadeIn" width="100%"/>
 </div>
@@ -57,13 +57,3 @@
 ## Commits GitHub Stats
 
 <p align="center">
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=ellerinaurelia&show_icons=true&count_private=true&include_all_commits=true&bg_color=222022&title_color=FFB2F7&text_color=FFFFFF&icon_color=f0fc87&border_color=253a82&hide_border=false&v=1" alt="Ellerin's GitHub stats" /><br/>
-
-  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellerinaurelia&layout=compact&hide_border=false&bg_color=222022&title_color=f0fc87&text_color=CCCCCC&icon_color=ffaaf7&border_color=253a82&v=1" alt="Ellerin's Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ellerinaurelia&locale=en&mode=daily&date_format=M%20j%2C%20Y&curr_streak_color=FFB2F7&text=FFFFFF&dates=CCCCCC&sideNums=FFFFFF&currStreakNum=FFFFFF&background=222022&title=FFB2F7&icon=f0fc87&fire=f0fc87&border=253a82&v=1" alt="GitHub Streak Stats" style="max-width:100%"/>
-</p>
-
----
