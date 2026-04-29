@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/81/25/61/812561ea908eaf0c19b4e3e3b7afb037.gif" alt="Aesthetic Anime Tech" width="100%" />
+  <img src="https://media.tenor.com/qE-hQ7yFwT4AAAAC/anime-coding.gif" alt="Aesthetic Anime Tech" width="100%" />
   <br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB2F7&height=200&section=header&text=The%20IT%20Girl,%20Ellerin%20&fontSize=50&animation=fadeIn" width="100%"/>
 </div>
