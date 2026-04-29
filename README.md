@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="https://i.pinimg.com/originals/81/25/61/812561ea908eaf0c19b4e3e3b7afb037.gif" alt="Aesthetic Anime Tech" width="100%" />
+  <br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB2F7&height=200&section=header&text=The%20IT%20Girl,%20Ellerin%20&fontSize=50&animation=fadeIn" width="100%"/>
 </div>
 
@@ -61,7 +63,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ellerinaurelia&locale=en&mode=daily&date_format=M%20j%2C%20Y&curr_streak_color=FFB2F7&streak_text=FFFFFF&background=222022&title=FFB2F7&icon=f0fc87&fire=f0fc87&border=253a82&v=1" alt="GitHub Streak Stats" style="max-width:100%"/>
+  <img src="https://streak-stats.demolab.com?user=ellerinaurelia&locale=en&mode=daily&date_format=M%20j%2C%20Y&curr_streak_color=FFB2F7&text=FFFFFF&dates=CCCCCC&sideNums=FFFFFF&currStreakNum=FFFFFF&background=222022&title=FFB2F7&icon=f0fc87&fire=f0fc87&border=253a82&v=1" alt="GitHub Streak Stats" style="max-width:100%"/>
 </p>
 
 ---
